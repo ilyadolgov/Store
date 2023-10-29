@@ -29,7 +29,8 @@ $sql = "SELECT * FROM products";
 if($result = $conn -> query($sql)) {
 	foreach($result as $row){
 		echo"<table>", "<tr>";
-			echo "<td>"<img src="web/img/[]" alt="Изображение"> . $row["filename"] . "<br>"; 
+						
+			echo "<td> <img src='web/img/".$row['filename']."<br>"; 
 			echo $row["name"]. "<br>";
 			echo $row["price"];
 			echo "<form action='delete.php' method='post'>
