@@ -1,0 +1,275 @@
+#index
+{
+	min-width: 936px;
+}
+{
+	background-image: url("./img/sonybackleft.png")
+	background-repeat: no-repeat
+	background-size: 98vmin, auto
+	background-position: 0.01% 75%
+	background-color: #ebebeb
+	margin: 
+}
+
+table
+{
+	border: solid 0px #000000;
+	width: 100%;
+	height: 100%;
+	font-family: Calibri;
+}
+
+td
+{
+	border: solid 0px #000000;
+}
+
+#headline
+{
+	height: 80px;
+	background-color: #5f7adb;
+	font-family: Calibri;
+}
+
+#brands
+{
+	text-align: center;
+}
+
+#brand
+{
+	width: 250px;
+}
+
+#phones 
+{
+	text-align: center;
+}
+#phone
+{
+	width: 300px;
+}
+
+#maintable
+{
+	width: 96vw;
+	height: 96vh;
+}
+
+#buy
+{
+	height: 65px;
+	text-align: right;
+	font-family: Calibri;
+}
+
+#our
+{
+	text-align: center;
+	height: 32px;
+	border-bottom: solid 1px #a2b2ee;
+	font-family: Calibri;
+}
+
+#log
+{
+	text-align: right;
+	background-color: #5f7adb;
+}
+
+#log_link
+{
+	margin-right: 10px;
+	text-align: right;
+	padding-left: 1400px;
+	color: white;
+	font-size: 18px;
+}
+
+#info
+{
+  text-align: center;
+	height: 32px;
+	font-family: Calibri;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	font-size: 14px;
+	
+}
+
+#background_0
+{
+
+	width: 120vh;
+	height: 20vh;
+
+}
+
+#body2
+{
+	background-image: url("./img/sonybackleft.png");
+	background-repeat: no-repeat;
+	background-size: 80vmin, auto;
+	background-position: -0.01% 40%;
+	background-color: #ffff;
+	margin: 
+}
+
+#box
+{
+	width: 100vw;
+	height: 100vh;
+	text-align: center;
+}
+
+#nampass
+{
+	width:600px;
+	height:400px;
+	border-radius: 20px 20px 20px 20px;
+	text-align: center;
+	margin-top: -300px;
+	margin-left: 450px;
+}
+
+#boxinbox
+{
+  margin-left: 2vw;
+}
+
+#ugolkrug
+{
+	width:600px;
+	height:400px;
+	border: solid 1px #a2b2ee;
+	border-radius: 50px 50px 50px 50px;
+	text-align: right;
+	margin-left: 450px;
+	margin-top: 160px;
+}
+
+#name
+{
+	margin-top: 16px;
+}
+
+#main
+{
+	text-align: right;
+	font-size: 30px;
+	color: white;
+	margin-left: 20px;
+}
+
+#avtorization
+{
+	text-align: center;
+	margin-top: -90px;
+	font-family: calibri;
+}
+
+#upstr
+{
+	background-color: blue;
+	height: 90px;
+	background-color: #5f7adb;
+}
+
+#input
+{
+	text-align: right;
+	font-size: 30px;
+	color: white;
+	margin-left: 1250px;
+}
+
+#reg
+{
+	width:600px;
+	height:400px;
+	border-radius: 50px 50px 50px 50px;
+	text-align: center;
+	margin-top: -350px;
+	margin-left: 450px;
+}
+
+ ul.nav
+{
+	margin-left: 0px;
+	padding-left: 650px;
+	padding-top: -70px;
+	list-style: none;
+}
+
+.nav li
+{ 
+	float: left;
+}
+
+ul.nav a
+{
+	display: block;
+	width: 5em;
+	padding:9px;
+	margin: 5px;
+	background-color: #f4f4f4;
+	text-decoration: none;
+	color: #333;
+	text-align: center;
+}
+
+ul.nav a:hover
+{
+	background-color: #333;
+  color: #f4f4f4;
+}
+							
+#namephone
+{
+	height: 32px;
+	color: black;
+	text-align: center;
+}
+
+#add
+{
+	margin-left: 100px;
+}
+
+#prod
+{
+	text-align: center;
+	margin-top: -250px;
+}
+
+#product
+{
+	height: 32px;
+	font-size: 32px;
+}
+
+#space
+{
+	padding-top: 200px;
+}
+#spaceid
+{
+	height: 0;
+}
+#logo
+{
+		margin-left:30px;
+    padding-top: 40px;
+}
+/*
+@media (max-width: 767px) {
+  /* стили для мобильных устройств */
+}
+/*
+@media (min-width: 768px) and (max-width: 1023px) {
+  /* стили для планшетов */
+}
+/*
+@media (min-width: 1024px) {
+  /* стили для настольных устройств */
+}
